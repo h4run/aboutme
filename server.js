@@ -19,9 +19,8 @@ app.prepare().then(() => {
     renderAndCache(req, res, "/");
   });
 
-  server.get("/blog/:id", (req, res) => {
-    const queryParams = { id: req.params.id };
-    renderAndCache(req, res, "/blog", queryParams);
+  server.use("/static/*", (req, res) => {
+    renderAndCache(req, res, "/static/*");
   });
 
   server.get("*", (req, res) => {
