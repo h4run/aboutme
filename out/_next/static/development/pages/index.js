@@ -9,7 +9,7 @@
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("# Harun Memiş - Frontend Developer\n\nMerhaba ben Harun,\n\nWeb ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak yapıyorum. Şimdiye kadar e-ticaret, mobil uygulamalar ve kurumsal website/portal gibi çeşitli projelerde çalıştım.\n\nİnsanların çokça etkileşim kurduğu projelerde görev almaktan zevk alıyorum. İşleri kolaylaştırmak ve daha eğlenceli hale getirmek için yeni teknolojileri denemeyi seven biriyim.\n\n16 yaşımdan beri yazılım ile ilgileniyorum. Kariyerime, ağırlıklı olarak web sitesi ve ilgili parçalarını oluşturarak başladım. Teknolojinin gelişmesiyle sınırları daha da belirginleşen ve dallara ayrılan yazılım dünyasında, web ve mobil uygulamalarının ön yüz geliştirmelerinde uzmanlaştım.\n\n## Neler yaptım?\n\n2013 yılından beri Fabrika Medya bünyesinde yazılım geliştirici olarak görev alıyorum. Ekibimizle birlikte kullanıcı deneyiminin önem arz ettiği, PWA uyumlu, erişilebilir e-ticaret, mobil uygulamalar ve kurumsal website/portal gibi çeşitli projeler geliştirdik. Birlikte geliştirdiğimiz projelerden bir kaçını aşağıda bulabilirsiniz.\n\n--\n\n### Teleskop App | Haber ve İnternet Takibi\n\n#### Mobil Uygulama (React Native)\n\n> Teleskop Uygulaması tüm haber sitelerini, sosyal medya platformlarını, forum, blog ve içerik sitelerini 7/24 düzenli olarak tarar.\n\n[![Get it from iTunes](https://h4run.github.io/aboutme/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161) [![Get it on Google Play](https://h4run.github.io/aboutme/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)\n\n--\n\n### Avanos | Kapadokya\n\n#### Mobil Uygulama (React Native)\n\n> Rotalar yaratma, navigasyon, favoriler listesi, turistik yerlere dair içerikler, İngilizce dil desteği gibi öne çıkan özellikleri ile Avanos Kaymakamlığı için geliştirdiğimiz uygulama yerli ve yabancı turistlere gezi rehberliği yapıyor.\n\n[![Get it from iTunes](https://h4run.github.io/aboutme/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/avanos-kapadokya/id1447085152) [![Get it on Google Play](https://h4run.github.io/aboutme/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.avanos)\n\n--\n\n### Bilgi Teknolojileri ve İletişim Kurumu - [btk.gov.tr](https://www.btk.gov.tr)\n\n#### Kurumsal Web Sitesi\n\n> Bilgi Teknolojileri ve İletişim Kurumu'nun web portalı projesi günümüz trendlerine uygun olarak baştan aşağı yenilenmiştir.\n\n--\n\n### Aloparca.com | Oto Yedek Parça - [aloparca.com](https://www.aloparca.com/)\n\n#### E-Ticaret\n\n> Aloparca 297.662'den fazla oto yedek parça stoğu ile, Türkiye'nin en büyük oto yedek parça marketidir.\n\n--\n\n### Fatma Betül Sayan Kaya - [betulsayan.com](https://www.betulsayan.com/)\n\n#### Kişisel Web Sitesi\n\n> Sayın Fatma Betül Sayan Kaya'nın kişisel websitesi\n\n## Bağlantılar\n\nBana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.\n\n- [LinkedIn](https://www.linkedin.com/in/harunmemis)\n- [GitHub](https://github.com/h4run)\n- [Twitter](https://twitter.com/h4run34)\n");
+/* harmony default export */ __webpack_exports__["default"] = ("# Harun Memiş - Frontend Developer\n\nMerhaba ben Harun,\n\nWeb ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak yapıyorum. Şimdiye kadar e-ticaret, mobil uygulamalar ve kurumsal website/portal gibi çeşitli projelerde çalıştım.\n\nİnsanların çokça etkileşim kurduğu projelerde görev almaktan zevk alıyorum. İşleri kolaylaştırmak ve daha eğlenceli hale getirmek için yeni teknolojileri denemeyi seven biriyim.\n\n16 yaşımdan beri yazılım ile ilgileniyorum. Kariyerime, ağırlıklı olarak web sitesi ve ilgili parçalarını oluşturarak başladım. Teknolojinin gelişmesiyle sınırları daha da belirginleşen ve dallara ayrılan yazılım dünyasında, web ve mobil uygulamalarının ön yüz geliştirmelerinde uzmanlaştım.\n\n## Neler yaptım?\n\n2013 yılından beri Fabrika Medya bünyesinde yazılım geliştirici olarak görev alıyorum. Ekibimizle birlikte kullanıcı deneyiminin önem arz ettiği, PWA uyumlu, erişilebilir e-ticaret, mobil uygulamalar ve kurumsal website/portal gibi çeşitli projeler geliştirdik. Birlikte geliştirdiğimiz projelerden bir kaçını aşağıda bulabilirsiniz.\n\n--\n\n### Teleskop App | Haber ve İnternet Takibi\n\n#### Mobil Uygulama (React Native)\n\n> Teleskop Uygulaması tüm haber sitelerini, sosyal medya platformlarını, forum, blog ve içerik sitelerini 7/24 düzenli olarak tarar.\n\n[![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)\n\n--\n\n### Avanos | Kapadokya\n\n#### Mobil Uygulama (React Native)\n\n> Rotalar yaratma, navigasyon, favoriler listesi, turistik yerlere dair içerikler, İngilizce dil desteği gibi öne çıkan özellikleri ile Avanos Kaymakamlığı için geliştirdiğimiz uygulama yerli ve yabancı turistlere gezi rehberliği yapıyor.\n\n[![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/avanos-kapadokya/id1447085152) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.avanos)\n\n--\n\n### Bilgi Teknolojileri ve İletişim Kurumu - [btk.gov.tr](https://www.btk.gov.tr)\n\n#### Kurumsal Web Sitesi\n\n> Bilgi Teknolojileri ve İletişim Kurumu'nun web portalı projesi günümüz trendlerine uygun olarak baştan aşağı yenilenmiştir.\n\n--\n\n### Aloparca.com | Oto Yedek Parça - [aloparca.com](https://www.aloparca.com/)\n\n#### E-Ticaret\n\n> Aloparca 297.662'den fazla oto yedek parça stoğu ile, Türkiye'nin en büyük oto yedek parça marketidir.\n\n--\n\n### Fatma Betül Sayan Kaya - [betulsayan.com](https://www.betulsayan.com/)\n\n#### Kişisel Web Sitesi\n\n> Sayın Fatma Betül Sayan Kaya'nın kişisel websitesi\n\n## Bağlantılar\n\nBana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.\n\n- [LinkedIn](https://www.linkedin.com/in/harunmemis)\n- [GitHub](https://github.com/h4run)\n- [Twitter](https://twitter.com/h4run34)\n");
 
 /***/ }),
 
@@ -13885,39 +13885,121 @@ var _jsxFileName = "/Users/harun/Desktop/my-cv/pages/index.js";
 
 var input = __webpack_require__(/*! ../README.md */ "./README.md").default;
 
+var baseURL = "";
+var title = "Harun Memiş";
 /* harmony default export */ __webpack_exports__["default"] = (function () {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 16
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 17
     },
     __self: this
-  }, "Harun Memi\u015F"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
-    href: "".concat("", "/static/fonts/stylesheet.css"),
+  }, title), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "description",
+    content: "Ki\u015Fisel web sitesi",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "viewport",
+    content: "width=device-width, initial-scale=1.0",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
+    rel: "manifest",
+    href: "".concat(baseURL, "/static/manifest.webmanifest"),
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "theme-color",
+    content: "#ff7e6d",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
+    rel: "shortcut icon",
+    href: "".concat(baseURL, "/static/img/icon.png"),
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
+    rel: "apple-touch-icon",
+    href: "".concat(baseURL, "/static/img/icon.png"),
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "apple-mobile-web-app-title",
+    content: title,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "apple-mobile-web-app-status-bar-style",
+    content: "default",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "apple-mobile-web-app-capable",
+    content: "yes",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+    name: "mobile-web-app-capable",
+    content: "yes",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
+    href: "".concat(baseURL, "/static/fonts/stylesheet.css"),
     rel: "stylesheet",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14
+      lineNumber: 32
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 34
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_markdown__WEBPACK_IMPORTED_MODULE_2___default.a, {
     source: input,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 20
+      lineNumber: 35
     },
     __self: this
   })));
