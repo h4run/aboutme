@@ -20,7 +20,7 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 > Teleskop Uygulaması tüm haber sitelerini, sosyal medya platformlarını, forum, blog ve içerik sitelerini 7/24 düzenli olarak tarar.
 
-[![Get it from iTunes](https://h4run.github.io/aboutme/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161) [![Get it on Google Play](https://h4run.github.io/aboutme/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)
+[![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)
 
 --
 
@@ -30,7 +30,7 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 > Rotalar yaratma, navigasyon, favoriler listesi, turistik yerlere dair içerikler, İngilizce dil desteği gibi öne çıkan özellikleri ile Avanos Kaymakamlığı için geliştirdiğimiz uygulama yerli ve yabancı turistlere gezi rehberliği yapıyor.
 
-[![Get it from iTunes](https://h4run.github.io/aboutme/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/avanos-kapadokya/id1447085152) [![Get it on Google Play](https://h4run.github.io/aboutme/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.avanos)
+[![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/avanos-kapadokya/id1447085152) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.avanos)
 
 --
 
