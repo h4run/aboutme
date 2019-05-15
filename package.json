@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "node server.js",
     "build": "next build",
-    "start": "next start",
+    "start": "NODE_ENV=production node server.js",
     "export": "next export",
     "deploy": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"harunmemis.com.tr\" >> out/CNAME  && git add out/ && git commit -m \"Deploy to gh-pages\"  && git subtree push --prefix out origin gh-pages"
   },
@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
+    "express": "^4.16.4",
     "next": "^8.1.0",
     "next-compose-plugins": "^2.2.0",
     "next-offline": "^4.0.0",
