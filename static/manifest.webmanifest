@@ -1,0 +1,16 @@
+{
+  "name": "Harun Memiş",
+  "short_name": "Harun Memiş",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff7e6d",
+  "description": "Kişisel Web Sitesi",
+  "icons": [
+    {
+      "src": "/static/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

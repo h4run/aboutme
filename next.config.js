@@ -1,8 +1,11 @@
-const withCSS = require("@zeit/next-css");
+const css = require("@zeit/next-css");
+const offline = require("next-offline");
 
-const debug = process.env.NODE_ENV !== "production";
+const withPlugins = require("next-compose-plugins");
 
-module.exports = withCSS({
+// const debug = process.env.NODE_ENV !== "production";
+
+module.exports = withPlugins([css, offline], {
   // assetPrefix: !debug ? "/aboutme/" : "",
   webpack(config) {
     config.module.rules = config.module.rules.map(rule => {
