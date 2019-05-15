@@ -17,6 +17,8 @@ class MyDocument extends Document {
             content="width=device-width, initial-scale=1.0"
           />
 
+          <meta name="description" content="Kişisel Web Sitesi" />
+
           <link
             rel="manifest"
             href={`${baseURL}/static/manifest.webmanifest`}
