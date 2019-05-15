@@ -38,9 +38,6 @@ class MyDocument extends Document {
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="mobile-web-app-capable" content="yes" />
 
-          <meta httpEquiv="cache-control" content="Private" />
-          <meta httpEquiv="Expires" content="365d" />
-
           <link
             href={`${baseURL}/static/fonts/stylesheet.css`}
             rel="stylesheet"
