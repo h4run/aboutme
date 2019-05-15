@@ -12,16 +12,16 @@ self.__precacheManifest = [
     "revision": "9d27ef16ab784a967782"
   },
   {
-    "url": "/_next/static/lQ6MGFto1iXq3U2j060GM/pages/_app.js",
-    "revision": "dbeaae9e7c96859888b1"
+    "url": "/_next/static/qtv5IwA5TKNsgAHYX5BGq/pages/_app.js",
+    "revision": "299c1d158745d8ff7894"
   },
   {
-    "url": "/_next/static/lQ6MGFto1iXq3U2j060GM/pages/_error.js",
-    "revision": "dd7aec088f6b7dcb25d9"
+    "url": "/_next/static/qtv5IwA5TKNsgAHYX5BGq/pages/_error.js",
+    "revision": "130c609660168e471520"
   },
   {
-    "url": "/_next/static/lQ6MGFto1iXq3U2j060GM/pages/index.js",
-    "revision": "58cda59d7e8ebafaf276"
+    "url": "/_next/static/qtv5IwA5TKNsgAHYX5BGq/pages/index.js",
+    "revision": "bd011b6d220904a3ddf9"
   },
   {
     "url": "/_next/static/runtime/main-fd508ba2eaf92d54803d.js",
