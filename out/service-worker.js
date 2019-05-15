@@ -1,17 +1,5 @@
 self.__precacheManifest = [
   {
-    "url": "/_next/static/4PSq8FCBnOdIzjN4wNMQi/pages/_app.js",
-    "revision": "7f3e170b6f382869c075"
-  },
-  {
-    "url": "/_next/static/4PSq8FCBnOdIzjN4wNMQi/pages/_error.js",
-    "revision": "00e5568e72b96c2219e0"
-  },
-  {
-    "url": "/_next/static/4PSq8FCBnOdIzjN4wNMQi/pages/index.js",
-    "revision": "9bbee4d0b165d37fc14a"
-  },
-  {
     "url": "/_next/static/chunks/commons.86fe20cb0bfa8987a73e.js",
     "revision": "1616eb11f88a4a5f79da"
   },
@@ -30,6 +18,18 @@ self.__precacheManifest = [
   {
     "url": "/_next/static/runtime/webpack-8ed9452df514b4d17d80.js",
     "revision": "c9d4f4ac318bec9c37e2"
+  },
+  {
+    "url": "/_next/static/ykAg3OOuD_E-4djMwBI5L/pages/_app.js",
+    "revision": "83a474d2429161a9696c"
+  },
+  {
+    "url": "/_next/static/ykAg3OOuD_E-4djMwBI5L/pages/_error.js",
+    "revision": "489508146ab79a84a9f4"
+  },
+  {
+    "url": "/_next/static/ykAg3OOuD_E-4djMwBI5L/pages/index.js",
+    "revision": "536234c3e5aaf5708231"
   }
 ];
 
