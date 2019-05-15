@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "url": "/_next/static/X2Cehgsa5C3phAGtKtrkk/pages/_app.js",
-    "revision": "b2f854ef2f0601be3069"
+    "url": "/_next/static/WwwwZKKuNSjtREb8fUYUF/pages/_app.js",
+    "revision": "15b5055ce2985a2ceb59"
   },
   {
-    "url": "/_next/static/X2Cehgsa5C3phAGtKtrkk/pages/_error.js",
-    "revision": "926bc3a21554e7b51a1e"
+    "url": "/_next/static/WwwwZKKuNSjtREb8fUYUF/pages/_error.js",
+    "revision": "7b7de18bb35107985162"
   },
   {
-    "url": "/_next/static/X2Cehgsa5C3phAGtKtrkk/pages/index.js",
-    "revision": "85a36eba97b302947f3c"
+    "url": "/_next/static/WwwwZKKuNSjtREb8fUYUF/pages/index.js",
+    "revision": "c2c0ecdf593034ea2e52"
   },
   {
     "url": "/_next/static/chunks/commons.86fe20cb0bfa8987a73e.js",
