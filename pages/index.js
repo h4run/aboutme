@@ -1,3 +1,4 @@
+import Head from "next/head";
 import ReactMarkdown from "react-markdown";
 
 import "normalize.css";
@@ -6,7 +7,12 @@ import "./styles.css";
 const input = require("../README.md").default;
 
 export default () => (
-  <div className="container">
-    <ReactMarkdown source={input} />
-  </div>
+  <>
+    <Head>
+      <title>Harun Memiş</title>
+    </Head>
+    <div className="container">
+      <ReactMarkdown source={input} />
+    </div>
+  </>
 );
