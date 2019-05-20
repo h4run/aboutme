@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "deploy": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"harunmemis.com.tr\" >> out/CNAME  && git add out/ && git commit -m \"Deploy to gh-pages\"  && git subtree push --prefix out origin gh-pages"
+    "export-gh-pages": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"harunmemis.com.tr\" >> out/CNAME",
+    "deploy": "yarn export-gh-pages && git add out/ && git commit -m \"Deploy to gh-pages\"  && git subtree push --prefix out origin gh-pages"
   },
   "author": "",
   "license": "ISC",
