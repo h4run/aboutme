@@ -1,6 +1,6 @@
 # Harun Memiş - Frontend Developer
 
-Merhaba ben Harun,
+Merhaba ben Harun ..,
 
 Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak yapıyorum. Şimdiye kadar e-ticaret, mobil uygulamalar ve kurumsal website/portal gibi çeşitli projelerde çalıştım.
 
