@@ -14,7 +14,7 @@ install:
   - npm install
 
 script:
-  - export-gh-pages
+  - npm run export-gh-pages
 
 deploy:
   provider: pages

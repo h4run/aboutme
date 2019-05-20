@@ -12,24 +12,24 @@ self.__precacheManifest = [
     "revision": "9d27ef16ab784a967782"
   },
   {
+    "url": "/_next/static/hOx6CQ7kDnxw4wzPc_8nJ/pages/_app.js",
+    "revision": "d3d06ac2ec2c6dafca77"
+  },
+  {
+    "url": "/_next/static/hOx6CQ7kDnxw4wzPc_8nJ/pages/_error.js",
+    "revision": "931f997a39b0f6856ba8"
+  },
+  {
+    "url": "/_next/static/hOx6CQ7kDnxw4wzPc_8nJ/pages/index.js",
+    "revision": "c6162694056e4a0b6beb"
+  },
+  {
     "url": "/_next/static/runtime/main-fd508ba2eaf92d54803d.js",
     "revision": "0ceef72b97a301802689"
   },
   {
     "url": "/_next/static/runtime/webpack-8ed9452df514b4d17d80.js",
     "revision": "c9d4f4ac318bec9c37e2"
-  },
-  {
-    "url": "/_next/static/suPMGBNJyYmGmZcj_fhQ_/pages/_app.js",
-    "revision": "31a81ada98aa5aa278c6"
-  },
-  {
-    "url": "/_next/static/suPMGBNJyYmGmZcj_fhQ_/pages/_error.js",
-    "revision": "a0d3e9c46055c1d5be81"
-  },
-  {
-    "url": "/_next/static/suPMGBNJyYmGmZcj_fhQ_/pages/index.js",
-    "revision": "ee83ce2bd963575d3701"
   }
 ];
 
