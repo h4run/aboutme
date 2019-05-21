@@ -22,7 +22,6 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#FF5D47" />
           <link rel="shortcut icon" href="/static/img/icon.png" />
           <link rel="apple-touch-icon" href="/static/img/icon.png" />
-          <meta property="og:image" content="/static/img/icon.png" />
           <meta name="apple-mobile-web-app-title" content="Harun Memiş" />
           <meta
             name="apple-mobile-web-app-status-bar-style"
@@ -30,6 +29,8 @@ class MyDocument extends Document {
           />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="mobile-web-app-capable" content="yes" />
+
+          <meta property="og:image" content="/static/img/og-image.png" />
 
           <link href="/static/fonts/stylesheet.css" rel="stylesheet" />
         </Head>
