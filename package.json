@@ -8,8 +8,7 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "export-gh-pages": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"harunmemis.com.tr\" >> out/CNAME",
-    "deploy": "yarn export-gh-pages && git add out/ && git commit -m \"Deploy to gh-pages\"  && git subtree push --prefix out origin gh-pages"
+    "export-gh-pages": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"harunmemis.com.tr\" >> out/CNAME"
   },
   "author": "",
   "license": "ISC",
@@ -27,7 +26,6 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
-    "babel-plugin-transform-define": "^1.3.1",
     "eslint": "5.16.0",
     "eslint-config-airbnb": "17.1.0",
     "eslint-config-prettier": "4.2.0",
