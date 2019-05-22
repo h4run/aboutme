@@ -1,10 +1,9 @@
 const css = require("@zeit/next-css");
 const offline = require("next-offline");
-const preact = require("@zeit/next-preact");
 
 const withPlugins = require("next-compose-plugins");
 
-module.exports = withPlugins([css, offline, preact], {
+module.exports = withPlugins([css, offline], {
   webpack(config) {
     config.module.rules = config.module.rules.map(rule => {
       if (rule.loader === "babel-loader") {
