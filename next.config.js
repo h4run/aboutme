@@ -3,6 +3,8 @@ const offline = require("next-offline");
 
 const withPlugins = require("next-compose-plugins");
 
+// offline
+
 module.exports = withPlugins([css, offline], {
   webpack(config) {
     config.module.rules = config.module.rules.map(rule => {
