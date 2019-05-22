@@ -1,7 +1,6 @@
 import Head from "next/head";
 import ReactMarkdown from "react-markdown";
 
-import "normalize.css";
 import "./styles.css";
 
 const input = require("../README.md").default;
