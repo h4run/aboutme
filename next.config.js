@@ -9,6 +9,7 @@ module.exports = withPlugins(
     [
       offline,
       {
+        target: "serverless",
         workboxOpts: {
           swDest: "static/service-worker.js",
           runtimeCaching: [
