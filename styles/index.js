@@ -64,13 +64,10 @@ export default css.global`
 
   h1 {
     font-size: 30px;
-    margin-bottom: 24px;
+    margin-bottom: 40px;
     letter-spacing: -0.75px;
     color: #ff5d47;
-    max-width: 480px;
     text-align: center;
-    margin-right: auto;
-    margin-left: auto;
   }
   h2 {
     font-size: 24px;
