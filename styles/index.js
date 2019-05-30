@@ -80,6 +80,13 @@ export default css.global`
     display: flex;
     align-items: center;
   }
+
+  .img {
+    max-width:100%;
+  }
+
+
+
   h3 .img {
     margin-right:10px;
   }
@@ -134,7 +141,7 @@ export default css.global`
     color: #27cba4;
   }
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 680px) {
     h1 {
       font-size: 22px;
     }
@@ -150,6 +157,10 @@ export default css.global`
     ul,
     p {
       font-size: 16px;
+    }
+
+    .img.mobile-app + .img.mobile-app {
+      margin-top:30px;
     }
   }
 `;

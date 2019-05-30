@@ -1,5 +1,4 @@
 import React from "react";
-import { useAmp } from "next/amp";
 
 const sizes = {
   "app-store-badge": {
@@ -21,11 +20,22 @@ const sizes = {
 };
 
 const Image = props => {
-  const hasSizeImage = Object.keys(sizes).find(s => props.src.match(s));
+  const { src } = props;
+  const hasSizeImage = Object.keys(sizes).find(s => src.match(s));
   let newProps = props;
   if (hasSizeImage) {
     const sizeProps = sizes[hasSizeImage];
-    newProps = { ...props, ...sizeProps };
+    newProps = {
+      ...props,
+      ...sizeProps,
+      class: `${props.class} ${hasSizeImage}`
+    };
+  }
+  if (!props.src.match("svg")) {
+    newProps = {
+      ...newProps,
+      srcset: `${src} 1x, ${src.replace(".", "2x.")} 2x`
+    };
   }
 
   return <amp-img {...newProps} />;
