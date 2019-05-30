@@ -3,6 +3,7 @@ import ReactMarkdown from "react-markdown";
 import { withAmp, useAmp } from "next/amp";
 
 import Image from "../components/Image";
+import Link from "../components/Link";
 
 // styles
 import "./styles.css";
@@ -21,8 +22,7 @@ const HomePage = () => {
       </Head>
       <div className="container">
         <ReactMarkdown
-          linkTarget={() => "_blank"}
-          renderers={{ image: Image }}
+          renderers={{ image: Image, link: Link }}
           source={input}
           escapeHtml={false}
         />
