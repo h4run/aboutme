@@ -81,14 +81,16 @@ export default css.global`
     align-items: center;
   }
 
-  .img {
-    max-width:100%;
-  }
-
-
-
   h3 .img {
     margin-right:10px;
+  }
+
+  h3 a {
+    margin-left:5px;
+  }
+
+  .img {
+    max-width:100%;
   }
 
   blockquote {
