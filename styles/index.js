@@ -3,6 +3,8 @@ import css from "styled-jsx/css";
 export default css.global`
   body {
     margin: 0;
+    background-image: url(/static/img/bg-pattern.png);
+    background-attachment: fixed;
   }
   .container {
     max-width: 640px;
