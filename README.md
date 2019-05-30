@@ -12,7 +12,7 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 2013 yılından beri Fabrika Medya bünyesinde yazılım geliştirici olarak görev alıyorum. Ekibimizle birlikte kullanıcı deneyiminin önem arz ettiği, PWA uyumlu, erişilebilir e-ticaret, mobil uygulamalar ve kurumsal website/portal gibi çeşitli projeler geliştirdik. Birlikte geliştirdiğimiz projelerden bir kaçını aşağıda bulabilirsiniz.
 
---
+-- 01
 
 ### Teleskop App | Haber ve İnternet Takibi
 
@@ -22,7 +22,7 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 [![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)
 
---
+-- 02
 
 ### Avanos | Kapadokya
 
@@ -32,7 +32,7 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 [![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/avanos-kapadokya/id1447085152) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.avanos)
 
---
+-- 03
 
 ### Bilgi Teknolojileri ve İletişim Kurumu - [btk.gov.tr](https://www.btk.gov.tr)
 
@@ -40,7 +40,7 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 > Bilgi Teknolojileri ve İletişim Kurumu'nun web portalı projesi günümüz trendlerine uygun olarak baştan aşağı yenilenmiştir.
 
---
+-- 04
 
 ### Aloparca.com | Oto Yedek Parça - [aloparca.com](https://www.aloparca.com/)
 
@@ -48,7 +48,7 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 > Aloparca 297.662'den fazla oto yedek parça stoğu ile, Türkiye'nin en büyük oto yedek parça marketidir.
 
---
+-- 05
 
 ### Fatma Betül Sayan Kaya - [betulsayan.com](https://www.betulsayan.com/)
 

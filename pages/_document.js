@@ -1,4 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
+// import { useAmp } from "next/amp";
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -10,11 +11,6 @@ class MyDocument extends Document {
     return (
       <Html lang="tr">
         <Head>
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1.0"
-          />
-
           <meta name="description" content="Kişisel Web Sitesi" />
 
           <link rel="manifest" href="/static/manifest.webmanifest" />
@@ -31,8 +27,6 @@ class MyDocument extends Document {
           <meta name="mobile-web-app-capable" content="yes" />
 
           <meta property="og:image" content="/static/img/og-image.png" />
-
-          <link href="/static/fonts/stylesheet.css" rel="stylesheet" />
         </Head>
         <body>
           <Main />
