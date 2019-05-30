@@ -9,6 +9,14 @@ const sizes = {
   "google-play-store-badge": {
     width: "136",
     height: "41"
+  },
+  "mobile-app": {
+    width: "315",
+    height: "632"
+  },
+  "app-icons": {
+    width: "20",
+    height: "20"
   }
 };
 
@@ -19,7 +27,12 @@ const Image = props => {
     const sizeProps = sizes[hasSizeImage];
     newProps = { ...props, ...sizeProps };
   }
+
   return <amp-img {...newProps} />;
+};
+
+Image.defaultProps = {
+  class: "img"
 };
 
 export default Image;

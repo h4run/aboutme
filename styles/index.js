@@ -76,6 +76,14 @@ export default css.global`
     margin-bottom: 9pt;
   }
 
+  h3 {
+    display: flex;
+    align-items: center;
+  }
+  h3 .img {
+    margin-right:10px;
+  }
+
   blockquote {
     font-size: 0;
     font-style: italic;

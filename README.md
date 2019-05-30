@@ -14,13 +14,16 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 -- 01
 
-### Teleskop App | Haber ve İnternet Takibi
+### ![Teleskop Icon](/static/img/app-icons/teleskop.png) Teleskop App | Haber ve İnternet Takibi
 
 #### Mobil Uygulama (React Native)
 
 > Teleskop Uygulaması tüm haber sitelerini, sosyal medya platformlarını, forum, blog ve içerik sitelerini 7/24 düzenli olarak tarar.
 
 [![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)
+
+![Teleskop IOS App](/static/img/mockups/mobile-app/teleskop-ios.jpg)
+![Teleskop Android App](/static/img/mockups/mobile-app/teleskop-android.jpg)
 
 -- 02
 
