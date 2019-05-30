@@ -1,6 +1,8 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 // import { useAmp } from "next/amp";
 
+import schemaOrg from "../schemaOrg.json";
+
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
     const initialProps = await Document.getInitialProps(ctx);
@@ -27,6 +29,11 @@ class MyDocument extends Document {
           <meta name="mobile-web-app-capable" content="yes" />
 
           <meta property="og:image" content="/static/img/og-image.png" />
+
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: `${JSON.stringify(schemaOrg)}` }}
+          />
         </Head>
         <body>
           <Main />

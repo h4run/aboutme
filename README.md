@@ -1,4 +1,4 @@
-# Harun Memiş - Frontend Developer
+# Harun Memiş - Front-End Developer
 
 Merhaba ben Harun,
 
