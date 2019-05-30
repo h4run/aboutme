@@ -1,24 +1,20 @@
 import Head from "next/head";
 import ReactMarkdown from "react-markdown";
-import { withAmp, useAmp } from "next/amp";
+import { withAmp } from "next/amp";
 
 import Image from "../components/Image";
 import Link from "../components/Link";
 
-// styles
-import "./styles.css";
+import styles from "../styles";
+import fonts from "../styles/fonts";
 
 const input = require("../README.md").default;
 
 const HomePage = () => {
-  const isAmp = useAmp();
   return (
     <>
       <Head>
         <title>Harun Memiş</title>
-        {!isAmp && (
-          <link href="/static/fonts/stylesheet.css" rel="stylesheet" />
-        )}
       </Head>
       <div className="container">
         <ReactMarkdown
@@ -27,8 +23,10 @@ const HomePage = () => {
           escapeHtml={false}
         />
       </div>
+      <style jsx>{styles}</style>
+      <style jsx>{fonts}</style>
     </>
   );
 };
 
-export default withAmp(HomePage, { hybrid: true });
+export default withAmp(HomePage);

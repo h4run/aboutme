@@ -1,9 +1,7 @@
-const css = require("@zeit/next-css");
 const offline = require("next-offline");
-
 const withPlugins = require("next-compose-plugins");
 
-module.exports = withPlugins([css, offline], {
+module.exports = withPlugins([offline], {
   webpack(config) {
     config.module.rules = config.module.rules.map(rule => {
       if (rule.loader === "babel-loader") {
@@ -16,6 +14,7 @@ module.exports = withPlugins([css, offline], {
       test: /\.md$/,
       use: "raw-loader"
     });
+
     return config;
   }
 });

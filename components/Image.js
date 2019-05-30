@@ -13,14 +13,13 @@ const sizes = {
 };
 
 const Image = props => {
-  const isAmp = useAmp();
   const hasSizeImage = Object.keys(sizes).find(s => props.src.match(s));
   let newProps = props;
   if (hasSizeImage) {
     const sizeProps = sizes[hasSizeImage];
     newProps = { ...props, ...sizeProps };
   }
-  return isAmp ? <amp-img {...newProps} /> : <img {...newProps} />;
+  return <amp-img {...newProps} />;
 };
 
 export default Image;
