@@ -73,3 +73,53 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 > Sayın Fatma Betül Sayan Kaya'nın kişisel websitesi
 
 ![Fatma Betül Sayan Kaya Web App](/static/img/mockups/web-app/betulsayan.jpg)
+
+-- 06
+
+### ![Okan Üniversitesi Icon](/static/img/app-icons/okan.png) Okan Üniversitesi - [okan.edu.tr](https://okan.edu.tr/)
+
+#### Kurumsal Web Sitesi
+
+> Okan Üniversitesi ve fakültelerinin kurumsal web portalı
+
+![Okan Üniversitesi Web App](/static/img/mockups/web-app/okan.jpg)
+
+-- 07
+
+### ![PTT Kep Icon](/static/img/app-icons/pttkep.png) PTT Kep - [pttkep.gov.tr](https://pttkep.gov.tr/)
+
+#### Kurumsal Web Sitesi
+
+> KEP resmi yazışmaların elektronik ortamda mevzuata uygun, uluslararası standartlarda ve teknik olarak güvenli bir şekilde yapılmasına imkân sağlayan bir sistemdir.
+
+![PTT Kep Web App](/static/img/mockups/web-app/pttkep.jpg)
+
+-- 08
+
+### ![Mapa Petrol Icon](/static/img/app-icons/mapa.png) Mapa Petrol - [mapapetrol.com.tr](http://mapapetrol.com.tr/)
+
+#### Kurumsal Web Sitesi
+
+> Mapa Petrol A.Ş Mapa Mobil™ Yağlarının Yetkili Distribütörüdür.
+
+![Mapa Petrol Web App](/static/img/mockups/web-app/mapa.jpg)
+
+-- 09
+
+### ![Simaj Patent Icon](/static/img/app-icons/simaj.png) Simaj Patent - [simaj.com.tr](https://simaj.com.tr/)
+
+#### Kurumsal Web Sitesi
+
+> Simaj Patent Danışmanlık Limited Şirketi 12 Ocak 1994 tarihinde Ankara'da kurulmuş olup, kurulduğu günden bu yana fikri hakların korunması alanında hizmet vermektedir.
+
+![Simaj Patent Web App](/static/img/mockups/web-app/simaj.jpg)
+
+-- 10
+
+### ![BBcollection Bayi Icon](/static/img/app-icons/bbcollection.png) BBcollection - [bbcollection.com.tr/bayi](http://bbcollection.com.tr/bayi/)
+
+#### B2B Web Uygulaması
+
+> BBcollection bayilik sistemi.
+
+![BBcollection Bayi Web App](/static/img/mockups/web-app/bbcollection.jpg)
