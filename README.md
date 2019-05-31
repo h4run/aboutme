@@ -20,20 +20,23 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 > Teleskop Uygulaması tüm haber sitelerini, sosyal medya platformlarını, forum, blog ve içerik sitelerini 7/24 düzenli olarak tarar.
 
-[![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)
+[![Get it from iTunes](/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161)
+[![Get it on Google Play](/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)
 
-![Teleskop IOS App](/static/img/mockups/mobile-app/teleskop-ios.jpg)
-![Teleskop Android App](/static/img/mockups/mobile-app/teleskop-android.jpg)
+![Teleskop App](/static/img/mockups/mobile-app/teleskop.jpg)
 
 -- 02
 
-### Avanos | Kapadokya
+### ![Avanos Icon](/static/img/app-icons/avanos.png) Avanos | Kapadokya
 
 #### Mobil Uygulama (React Native)
 
 > Rotalar yaratma, navigasyon, favoriler listesi, turistik yerlere dair içerikler, İngilizce dil desteği gibi öne çıkan özellikleri ile Avanos Kaymakamlığı için geliştirdiğimiz uygulama yerli ve yabancı turistlere gezi rehberliği yapıyor.
 
-[![Get it from iTunes](https://harunmemis.com.tr/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/avanos-kapadokya/id1447085152) [![Get it on Google Play](https://harunmemis.com.tr/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.avanos)
+[![Get it from iTunes](/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/avanos-kapadokya/id1447085152)
+[![Get it on Google Play](/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.avanos)
+
+![Avanos App](/static/img/mockups/mobile-app/avanos.jpg)
 
 -- 03
 

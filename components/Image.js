@@ -10,8 +10,8 @@ const sizes = {
     height: "41"
   },
   "mobile-app": {
-    width: "315",
-    height: "632"
+    width: "640",
+    height: "640"
   },
   "app-icons": {
     width: "20",
@@ -34,8 +34,14 @@ const Image = props => {
   if (!props.src.match("svg")) {
     newProps = {
       ...newProps,
-      srcset: `${src} 1x, ${src.replace(".", "2x.")} 2x`
+      srcset: `${src} 1x, ${src.replace(".", "@2x.")} 2x`
     };
+    if (props.src.match("mockups")) {
+      newProps = {
+        ...newProps,
+        layout: "responsive"
+      };
+    }
   }
 
   return <amp-img {...newProps} />;

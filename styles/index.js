@@ -83,6 +83,7 @@ export default css.global`
 
   h3 .img {
     margin-right:10px;
+    flex: 0 0 auto;
   }
 
   h3 a {
@@ -91,6 +92,8 @@ export default css.global`
 
   .img {
     max-width:100%;
+    height:auto;
+    vertical-align:middle;
   }
 
   blockquote {
@@ -163,6 +166,9 @@ export default css.global`
 
     .img.mobile-app + .img.mobile-app {
       margin-top:30px;
+    }
+    h3 a {
+      margin-left:10px;
     }
   }
 `;
