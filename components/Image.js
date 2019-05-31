@@ -13,6 +13,10 @@ const sizes = {
     width: "640",
     height: "640"
   },
+  "web-app": {
+    width: "640",
+    height: "436"
+  },
   "app-icons": {
     width: "20",
     height: "20"
@@ -31,12 +35,12 @@ const Image = props => {
       class: `${props.class} ${hasSizeImage}`
     };
   }
-  if (!props.src.match("svg")) {
+  if (!props.src.match(/\.svg$/)) {
     newProps = {
       ...newProps,
       srcset: `${src} 1x, ${src.replace(".", "@2x.")} 2x`
     };
-    if (props.src.match("mockups")) {
+    if (props.src.match(/mockups/)) {
       newProps = {
         ...newProps,
         layout: "responsive"
