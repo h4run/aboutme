@@ -11,7 +11,7 @@ const sizes = {
   },
   "mobile-app": {
     width: "640",
-    height: "640"
+    height: "614"
   },
   "web-app": {
     width: "640",
