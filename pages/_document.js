@@ -32,7 +32,7 @@ class MyDocument extends Document {
 
           <script
             type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: `${JSON.stringify(schemaOrg)}` }}
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrg) }}
           />
           <script
             async
@@ -45,6 +45,22 @@ class MyDocument extends Document {
             config="https://www.googletagmanager.com/amp.json?id=GTM-58DD3FJ&gtm.url=SOURCE_URL"
             data-credentials="include"
           />
+          <amp-analytics type="metrika">
+            <script
+              type="application/json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  vars: {
+                    counterId: "54033100",
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true
+                  }
+                })
+              }}
+            />
+          </amp-analytics>
           <Main />
           <NextScript />
         </body>
