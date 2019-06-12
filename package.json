@@ -9,7 +9,7 @@
     "start": "next start",
     "export": "next export",
     "export-gh-pages": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"harunmemis.com.tr\" >> out/CNAME",
-    "generateSW": "workbox generateSW wb-build-script.js"
+    "generateSW": "workbox generateSW wb-build-script.js && cp sw.html out"
   },
   "author": "",
   "license": "ISC",
