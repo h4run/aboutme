@@ -13,6 +13,9 @@ install:
   - yarn export-gh-pages
   - yarn generateSW
 
+after_install:
+  - cp sw.html out
+
 script:
   - echo "Skipping tests"
 

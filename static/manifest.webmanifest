@@ -2,7 +2,7 @@
   "name": "Harun Memiş",
   "short_name": "Harun Memiş",
   "description": "Kişisel Web Sitesi",
-  "start_url": "/index.html",
+  "start_url": "/",
   "background_color": "#ffffff",
   "theme_color": "#FF5D47",
   "orientation": "portrait",

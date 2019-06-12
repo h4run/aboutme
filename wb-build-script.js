@@ -4,7 +4,7 @@ module.exports = {
   globDirectory: ".",
   runtimeCaching: [
     {
-      urlPattern: new RegExp("^https://harunmemis.com.tr/index.html"),
+      urlPattern: /^https?.*/,
       handler: "NetworkFirst",
       options: {
         cacheName: "offlineCache",
