@@ -66,7 +66,7 @@ class MyDocument extends Document {
               }}
             />
           </amp-analytics>
-          <amp-install-serviceworker src="/static/sw.js" layout="nodisplay" />
+          <amp-install-serviceworker src="/sw.js" layout="nodisplay" />
           <Main />
           <NextScript />
         </body>

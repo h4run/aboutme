@@ -10,8 +10,8 @@ branches:
 
 install:
   - yarn
-  - yarn generateSW
   - yarn export-gh-pages
+  - yarn generateSW
 
 script:
   - echo "Skipping tests"

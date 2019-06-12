@@ -1,7 +1,7 @@
 module.exports = {
-  swDest: "static/sw.js",
+  swDest: "out/sw.js",
   globPatterns: ["static/**/*"],
-  globDirectory: "..",
+  globDirectory: ".",
   runtimeCaching: [
     {
       urlPattern: new RegExp("^https://harunmemis.com.tr/index.html"), // cache the index.html
