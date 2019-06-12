@@ -67,7 +67,7 @@ class MyDocument extends Document {
             />
           </amp-analytics>
           <amp-install-serviceworker
-            src="/sw.js"
+            src="/service-worker.js"
             data-iframe-src="https://amp.dev/sw.html"
             layout="nodisplay"
           />
