@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "export-gh-pages": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"harunmemis.com.tr\" >> out/CNAME"
+    "export-gh-pages": "next build && next export && touch out/.nojekyll && touch out/CNAME && echo \"harunmemis.com.tr\" >> out/CNAME",
+    "generateSW": "workbox generateSW wb-build-script.js"
   },
   "author": "",
   "license": "ISC",
@@ -30,6 +31,7 @@
     "eslint-plugin-markdown": "^1.0.0",
     "eslint-plugin-prettier": "3.1.0",
     "eslint-plugin-react": "7.13.0",
-    "prettier": "^1.17.1"
+    "prettier": "^1.17.1",
+    "workbox-cli": "^4.3.1"
   }
 }

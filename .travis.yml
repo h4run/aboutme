@@ -10,6 +10,7 @@ branches:
 
 install:
   - yarn
+  - yarn generateSW
   - yarn export-gh-pages
 
 script:
