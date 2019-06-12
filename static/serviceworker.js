@@ -1,5 +1,5 @@
-const CACHE_NAME = "my-site-cache-v1";
-const urlsToCache = [
+const cacheName = "WWW-HARUNMEMIS-COM-TR-V1";
+const filesToCache = [
   "/",
   "/static/fonts/avertastd-semibold-webfont.woff",
   "/static/fonts/avertastd-semibold-webfont.woff2",
@@ -53,16 +53,55 @@ const urlsToCache = [
   "/static/img/mockups/web-app/simaj.jpg",
   "/static/img/mockups/web-app/simaj@2x.jpg",
   "/static/img/og-image.png",
-  "/static/manifest.webmanifest",
-  "/static/serviceworker.js"
+  "/static/manifest.webmanifest"
 ];
 
 self.addEventListener("install", function(event) {
-  // Perform install steps
   event.waitUntil(
-    caches.open(CACHE_NAME).then(function(cache) {
-      console.log("Opened cache");
-      return cache.addAll(urlsToCache);
+    caches.open(cacheName).then(function(cache) {
+      console.info("[sw.js] cached all files");
+      return cache.addAll(filesToCache);
+    })
+  );
+});
+
+self.addEventListener("fetch", function(event) {
+  event.respondWith(
+    caches.match(event.request).then(function(response) {
+      if (response) {
+        return response;
+      }
+      // clone request stream
+      // as stream once consumed, can not be used again
+      const reqCopy = event.request.clone();
+
+      return fetch(reqCopy, { credentials: "include" }) // reqCopy stream consumed
+        .then(function(response) {
+          // bad response
+          // response.type !== 'basic' means third party origin request
+          if (
+            !response ||
+            response.status !== 200 ||
+            response.type !== "basic"
+          ) {
+            return response; // response stream consumed
+          }
+
+          // clone response stream
+          // as stream once consumed, can not be used again
+          const resCopy = response.clone();
+
+          // ================== IN BACKGROUND ===================== //
+
+          // add response to cache and return response
+          caches.open(cacheName).then(function(cache) {
+            return cache.put(reqCopy, resCopy); // reqCopy, resCopy streams consumed
+          });
+
+          // ====================================================== //
+
+          return response; // response stream consumed
+        });
     })
   );
 });
