@@ -1,7 +1,4 @@
-const offline = require("next-offline");
-const withPlugins = require("next-compose-plugins");
-
-module.exports = withPlugins([offline], {
+module.exports = {
   webpack(config) {
     config.module.rules = config.module.rules.map(rule => {
       if (rule.loader === "babel-loader") {
@@ -17,4 +14,4 @@ module.exports = withPlugins([offline], {
 
     return config;
   }
-});
+};

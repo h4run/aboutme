@@ -39,6 +39,11 @@ class MyDocument extends Document {
             custom-element="amp-analytics"
             src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"
           />
+          <script
+            async
+            custom-element="amp-install-serviceworker"
+            src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js"
+          />
         </Head>
         <body>
           <amp-analytics
@@ -61,6 +66,11 @@ class MyDocument extends Document {
               }}
             />
           </amp-analytics>
+          <amp-install-serviceworker
+            src="/sw.js"
+            data-iframe-src="https://amp.dev/sw.html"
+            layout="nodisplay"
+          />
           <Main />
           <NextScript />
         </body>
