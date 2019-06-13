@@ -4,10 +4,13 @@ module.exports = {
   globDirectory: ".",
   runtimeCaching: [
     {
-      urlPattern: new RegExp("^https://harunmemis.com.tr/index.html"), // cache the index.html
-      handler: "networkFirst", // using the network first handler
+      urlPattern: /^https?.*/,
+      handler: "NetworkFirst",
       options: {
-        cacheName: "offlineCache"
+        cacheName: "offlineCache",
+        expiration: {
+          maxEntries: 200
+        }
       }
     }
   ]
