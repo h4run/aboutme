@@ -77,17 +77,11 @@ export default css.global`
   }
 
   h3 {
-    display: flex;
-    align-items: center;
+    margin-bottom:.8em;
   }
-
   h3 .img {
-    margin-right:10px;
-    flex: 0 0 auto;
-  }
-
-  h3 a {
-    margin-left:5px;
+    margin-right: 3px;
+    margin-bottom: .2em;
   }
 
   .img {
@@ -154,10 +148,10 @@ export default css.global`
       font-size: 20px;
     }
     h3 {
-      font-size: 18px;
+      font-size: 16px;
     }
     h4 {
-      font-size: 16px;
+      font-size: 14px;
     }
     ul,
     p {
@@ -166,9 +160,6 @@ export default css.global`
 
     .img.mobile-app + .img.mobile-app {
       margin-top:30px;
-    }
-    h3 a {
-      margin-left:10px;
     }
   }
 `;

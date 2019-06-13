@@ -20,7 +20,7 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 -- 01
 
-### ![Teleskop Icon](/static/img/app-icons/teleskop.png) Teleskop App | Haber ve İnternet Takibi
+### ![Teleskop Icon](/static/img/app-icons/teleskop.png) Teleskop App
 
 #### Mobil Uygulama (React Native)
 
@@ -56,9 +56,9 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 -- 04
 
-### ![Aloparça Icon](/static/img/app-icons/aloparca.png) Aloparca.com | Oto Yedek Parça - [aloparca.com](https://www.aloparca.com/)
+### ![Aloparça Icon](/static/img/app-icons/aloparca.png) Aloparça - [aloparca.com](https://www.aloparca.com/)
 
-#### E-Ticaret
+#### E-Ticaret (Oto Yedek Parça)
 
 > Aloparca 297.662'den fazla oto yedek parça stoğu ile, Türkiye'nin en büyük oto yedek parça marketidir.
 
