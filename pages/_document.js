@@ -13,8 +13,6 @@ class MyDocument extends Document {
     return (
       <Html lang="tr">
         <Head>
-          <meta name="description" content="Kişisel Web Sitesi" />
-
           <link rel="manifest" href="/manifest.webmanifest" />
 
           <meta name="theme-color" content="#FF5D47" />

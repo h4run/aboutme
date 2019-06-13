@@ -14,7 +14,11 @@ const HomePage = () => {
   return (
     <>
       <Head>
-        <title>Harun Memiş</title>
+        <title>Harun Memiş - Front-End Developer</title>
+        <meta
+          name="description"
+          content="Harun Memiş, Kişisel Web Sitesi, Front-End Developer"
+        />
       </Head>
       <div className="container">
         <ReactMarkdown

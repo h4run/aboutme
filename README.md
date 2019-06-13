@@ -1,6 +1,6 @@
 # Harun Memiş - Front-End Developer
 
-Merhaba ben Harun,
+Merhaba ben Harun Memiş,
 
 Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak yapıyorum. Şimdiye kadar e-ticaret, mobil uygulamalar ve kurumsal website/portal gibi çeşitli projelerde çalıştım.
 
@@ -10,9 +10,9 @@ Web ve mobil uygulamalar geliştiriyorum. Bunu yedi yıldır profesyonel olarak 
 
 Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
-- [GitHub](https://github.com/h4run)
-- [LinkedIn](https://www.linkedin.com/in/harunmemis)
-- [Twitter](https://twitter.com/h4run34)
+- [GitHub](https://github.com/h4run "Harun Memiş Github")
+- [LinkedIn](https://www.linkedin.com/in/harunmemis "Harun Memiş LinkedIn")
+- [Twitter](https://twitter.com/h4run34 "Harun Memiş Twitter")
 
 ## Neler yaptım?
 
@@ -24,7 +24,7 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 #### Mobil Uygulama (React Native)
 
-> Teleskop Uygulaması tüm haber sitelerini, sosyal medya platformlarını, forum, blog ve içerik sitelerini 7/24 düzenli olarak tarar.
+> Teleskop App sosyal medya platformlarını, içerik sitelerini, blog, forum, ulusal ve yerel haber sitelerini 7/24 düzenli olarak tarayıp listeleyen bir mobil uygulamadır.
 
 [![Get it from iTunes](/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/teleskop/id1442063161)
 [![Get it on Google Play](/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.teleskop)
@@ -37,7 +37,7 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 #### Mobil Uygulama (React Native)
 
-> Rotalar yaratma, navigasyon, favoriler listesi, turistik yerlere dair içerikler, İngilizce dil desteği gibi öne çıkan özellikleri ile Avanos Kaymakamlığı için geliştirdiğimiz uygulama yerli ve yabancı turistlere gezi rehberliği yapıyor.
+> Avanos Kaymakamlığı için geliştirilen Avanos | Kapadokya Mobil uygulaması kullanıcılara turistik yerler ile ilgili içerikler sunuyor. Ayrıca navigasyon, favoriler listesi ve rotalar oluşturma gibi öne çıkan özellikleri ile birlikte, İngilizce dil desteği sayesinde uygulama yerli ve yabancı turistlere gezi rehberliği yapıyor.
 
 [![Get it from iTunes](/static/img/app-store-badge.svg)](https://itunes.apple.com/tr/app/avanos-kapadokya/id1447085152)
 [![Get it on Google Play](/static/img/google-play-store-badge.svg)](https://play.google.com/store/apps/details?id=com.avanos)
@@ -60,7 +60,7 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 #### E-Ticaret (Oto Yedek Parça)
 
-> Aloparca 297.662'den fazla oto yedek parça stoğu ile, Türkiye'nin en büyük oto yedek parça marketidir.
+> 297 binden fazla oto yedek parça stoğu ile Aloparca.com, Türkiye'nin en büyük oto yedek parça satan e-ticaret oluşumudur.
 
 ![Aloparça Web App](/static/img/mockups/web-app/aloparca.jpg)
 
@@ -90,7 +90,7 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 #### Kurumsal Web Sitesi
 
-> KEP resmi yazışmaların elektronik ortamda mevzuata uygun, uluslararası standartlarda ve teknik olarak güvenli bir şekilde yapılmasına imkân sağlayan bir sistemdir.
+> Kayıtlı Elektronik Posta (KEP), her türlü belge paylaşımları, hukuki ve ticari yazışmaları gönderdiğiniz biçimde korur. İçeriği senet hükmünde yasal geçerli kesin delil haline getirir ve kesinlikle değişmemesini sağlar. Alıcının kim olduğunu kesin olarak tespit eder. Teknik olarak güvenli ve yasal olarak geçerli elektronik posta olarak kabul edilir.
 
 ![PTT Kep Web App](/static/img/mockups/web-app/pttkep.jpg)
 
@@ -100,7 +100,7 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 #### Kurumsal Web Sitesi
 
-> Mapa Petrol A.Ş Mapa Mobil™ Yağlarının Yetkili Distribütörüdür.
+> Mapa Mobil™ yağlarının yetkili distribütörü olan Mapa Petrol A.Ş'nin kurumsal websitesi.
 
 ![Mapa Petrol Web App](/static/img/mockups/web-app/mapa.jpg)
 
@@ -110,7 +110,7 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 #### Kurumsal Web Sitesi
 
-> Simaj Patent Danışmanlık Limited Şirketi 12 Ocak 1994 tarihinde Ankara'da kurulmuş olup, kurulduğu günden bu yana fikri hakların korunması alanında hizmet vermektedir.
+> Kurulduğu günden bu yana fikri hakların korunması alanında hizmet veren Simaj Patent Danışmanlık Limited Şirketi, Ankara'da 12 Ocak 1994 tarihinde kurulmuştur.
 
 ![Simaj Patent Web App](/static/img/mockups/web-app/simaj.jpg)
 
@@ -120,6 +120,6 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 
 #### B2B Web Uygulaması
 
-> BBcollection bayilik sistemi.
+> İthal duvar kağıtları satan BBcollection'nın bayilik sistemi.
 
 ![BBcollection Bayi Web App](/static/img/mockups/web-app/bbcollection.jpg)
