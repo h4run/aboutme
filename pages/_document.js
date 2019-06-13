@@ -30,6 +30,7 @@ class MyDocument extends Document {
 
           <meta property="og:image" content="/static/img/og-image.png" />
 
+          <meta name="yandex-verification" content="57ebe70b831718c0" />
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaOrg) }}
