@@ -15,7 +15,7 @@ class MyDocument extends Document {
         <Head>
           <meta name="description" content="Kişisel Web Sitesi" />
 
-          <link rel="manifest" href="/static/manifest.webmanifest" />
+          <link rel="manifest" href="/manifest.webmanifest" />
 
           <meta name="theme-color" content="#FF5D47" />
           <link rel="shortcut icon" href="/static/img/icon.png" />
