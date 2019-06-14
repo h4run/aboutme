@@ -15,10 +15,7 @@ const HomePage = () => {
     <>
       <Head>
         <title>Harun Memiş - Front-End Developer</title>
-        <meta
-          name="description"
-          content="Harun Memiş, Kişisel Web Sitesi, Front-End Developer"
-        />
+        <meta name="description" content="Harun Memiş'in Dijital Portföyü" />
       </Head>
       <div className="container">
         <ReactMarkdown
