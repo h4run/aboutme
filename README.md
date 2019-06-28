@@ -133,3 +133,13 @@ Bana aşağıdaki bağlantıları kullanarak ulaşabilirsiniz.
 > İthal duvar kağıtları satan BBcollection'nın bayilik sistemi.
 
 ![BBcollection Bayi Web App](/static/img/mockups/web-app/bbcollection.jpg)
+
+-- 12
+
+### ![taze&kuru Icon](/static/img/app-icons/tazekuru.png) taze&kuru - [tazekuru.fmreactor.com](http://tazekuru.fmreactor.com/)
+
+#### E-Ticaret (Kurutulmuş Meyve)
+
+> Kurutulmuş meyveler üreten taze&kuru firması için yapmış olduğumuz retro e-ticaret sitesi.
+
+![taze&kuru Web sitesi](/static/img/mockups/web-app/tazekuru.jpg)
