@@ -1,6 +1,5 @@
 import Head from "next/head";
 import ReactMarkdown from "react-markdown";
-import { withAmp } from "next/amp";
 
 import Image from "../components/Image";
 import Link from "../components/Link";
@@ -30,4 +29,8 @@ const HomePage = () => {
   );
 };
 
-export default withAmp(HomePage);
+export const config = {
+  amp: true
+};
+
+export default HomePage;
